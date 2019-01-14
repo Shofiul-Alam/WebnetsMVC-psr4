@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Webnets\\": "app/Webnets",
+            "Lib\\": "Lib"
+        }
+    }
+}
